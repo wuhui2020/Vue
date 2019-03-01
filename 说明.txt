@@ -3,3 +3,5 @@ vuedemo01:todolist  localStorage数据存储 循环数据
 vuelify:vue-resource axios获取数据，父子组件与非父子组件传值,生命周期函数
 
 vuerouter:路由配制
+
+vuex: 不同组件数据共享，数据持久化
